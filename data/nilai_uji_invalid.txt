@@ -1,0 +1,9 @@
+A007,Gita,75
+A008,Hari,74
+A009,Ira,abc
+A010,Joko,105
+A007,Gita Duplikat,90
+SalahFormat
+A011,Kiki,0
+
+A012,Lala,100
